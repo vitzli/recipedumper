@@ -60,24 +60,27 @@ public class RecipeManager {
 		LogHelper.info("Dumping everything");
 		dumpRecipes();
 		dumpOreDictionary();
+		// dumpIdMap();
 		dumpItems();
 	}
 	
 	public void cmdDumpOreDict() {
 		LogHelper.info("Dumping ore dictionary");
 		dumpOreDictionary();
+		// dumpIdMap();
 		dumpItems();		
 	}
 	
 	public void cmdDumpItemRecipes() {
 		LogHelper.info("Dumping recipes");
 		dumpRecipes();
+		// dumpIdMap();
 		dumpItems();		
 	}
 	
 
 	private void dumpItems() {
-		LogHelper.fine("Dumping item IDs");
+		LogHelper.fine("Dumping items");
 		String description = null;
 		try {
 			
@@ -101,8 +104,34 @@ public class RecipeManager {
 		}
 	}
 	
+	private void dumpIdMap() {
+		LogHelper.fine("Dumping item map");
+		String description = null;
+		try {
+			
+			File fp = Configuration.createIdMapFile();
+			Writer mapWriter = new FileWriter(fp);
+			
+			for (Entry<Integer,Integer> itemEntry : IDHandler.getEntries()) {
+				try {
+					description = String.format("%s:%s", itemEntry.getKey(), itemEntry.getValue());
+					mapWriter.write(description);
+					mapWriter.write("\n");
+				} catch (Exception ex) {
+					LogHelper.severe("Exception caught when writing item");
+				}
+			}
+			
+			mapWriter.close();
+		} catch (Exception ex) {
+			LogHelper.severe("Exception caught during dumping item ids");
+		}		
+	}
+	
 	private void dumpRecipes() {
 		LogHelper.fine("Dumping recipes");
+		int unproc = 0;
+		int proc = 0;
 		try {
 			File fp = Configuration.createDumpFile();
 			Writer recipeWriter = new FileWriter(fp);
@@ -112,12 +141,16 @@ public class RecipeManager {
 					try {
 						recipeWriter.write(recipe.generateDescription());
 						recipeWriter.write("\n");
+						proc++;
 					} catch (Exception ex) {
-						LogHelper.severe("Cannot describe an object in module "+module.getPrefix());
+						// LogHelper.info("Cannot describe an object in module "+module.getPrefix());
+						// ex.printStackTrace();
+						unproc++;
 					}
 				}
 			}
 			
+			LogHelper.info("Processed " + proc + "/" + unproc);
 			recipeWriter.close();
 		} catch (Exception ex) {
 			LogHelper.severe("Exception raised during recipe dumping");

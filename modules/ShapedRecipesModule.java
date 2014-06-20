@@ -59,12 +59,10 @@ public class ShapedRecipesModule implements IRecipesModule {
 			
 			for (ItemStack is: items) {
 				description += Formatter.getISDescription(is);
-				IDHandler.updateMap(is);
 			}
 			
 			ItemStack result = sr.getRecipeOutput();
 			description += "->" + Formatter.getISDescription(result);
-			IDHandler.updateMap(result);
 			
 			return this.description;
 		}

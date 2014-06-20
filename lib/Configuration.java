@@ -19,6 +19,11 @@ public class Configuration {
     public static File createOreFile() {
         return createFile("oredict.log");
     }
+
+    public static File createIdMapFile() {
+        return createFile("idmap.log");
+    }
+
     
     private static File createFile(String filename)
     {

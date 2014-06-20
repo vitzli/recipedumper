@@ -10,6 +10,7 @@ public class Formatter {
         if (is == null) {
             return "(None)";
         } else {
+        	IDHandler.updateMap(is);
             return String.format("(%d:%d,%d)", is.itemID, is.getItemDamage(), is.stackSize);
         }
     }

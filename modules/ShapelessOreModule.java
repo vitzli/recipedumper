@@ -60,13 +60,10 @@ public class ShapelessOreModule implements IRecipesModule{
             {
                 if(o instanceof ItemStack)
                 {
-                    description+= Formatter.getISDescription((ItemStack)o);
-                }
-                else
-                {
-                    description+=Formatter.getItemOreDescription(o);
-                }
-                
+					description += Formatter.getISDescription((ItemStack) o);
+				} else {
+					description += Formatter.getItemOreDescription(o);
+				}                
             }
             ItemStack result = sr.getRecipeOutput();
             description+="->"+Formatter.getISDescription(result);

@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.Iterator;
 
 import vitzli.recipedumper.lib.Formatter;
+import vitzli.recipedumper.lib.IDHandler;
 import net.minecraft.item.crafting.CraftingManager;
 import net.minecraft.item.ItemStack;
 import net.minecraftforge.oredict.OreDictionary;

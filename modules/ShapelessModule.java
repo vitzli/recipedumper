@@ -5,6 +5,7 @@ import java.util.Iterator;
 import java.util.List;
 
 import vitzli.recipedumper.lib.Formatter;
+import vitzli.recipedumper.lib.IDHandler;
 import net.minecraft.item.ItemStack;
 import net.minecraft.item.crafting.CraftingManager;
 import net.minecraft.item.crafting.ShapelessRecipes;
@@ -55,6 +56,7 @@ public class ShapelessModule implements IRecipesModule {
 					.getPrivateValue(ShapelessRecipes.class, sr, 1);
 			for (ItemStack is : items) {
 				description += Formatter.getISDescription(is);
+				IDHandler.updateMap(is);
 			}
 			ItemStack result = sr.getRecipeOutput();
 			description += "->" + Formatter.getISDescription(result);
