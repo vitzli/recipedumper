@@ -19,7 +19,6 @@ import vitzli.recipedumper.lib.Reference;
 import vitzli.recipedumper.lib.CommandHandler;
 import vitzli.recipedumper.lib.RecipeManager;
 import vitzli.recipedumper.lib.Configuration;
-
 import vitzli.recipedumper.modules.*;
 
 @Mod(modid= Reference.MOD_ID, name = Reference.MOD_NAME, version=Reference.VERSION)
@@ -53,6 +52,7 @@ public class RecipeDumper {
 		recipemanager.registerModule(new ShapelessModule());
 		recipemanager.registerModule(new ShapedOreModule());
 		recipemanager.registerModule(new ShapelessOreModule());
+		recipemanager.registerModule(new SmeltingModule());
 	}
 		
 	@EventHandler
