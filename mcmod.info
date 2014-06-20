@@ -1,0 +1,18 @@
+[
+    {
+        "name": "vitzli's Recipe dumper", 
+        "parent": "", 
+        "url": "", 
+        "logoFile": "", 
+        "updateUrl": "", 
+        "credits": "",
+        "version": "0.0.1", 
+        "modid": "vsRecipeDumper", 
+        "authors": [
+            "hubertnnn"
+        ], 
+        "mcversion": "1.6.4", 
+        "screenshots": [], 
+        "description": "vitzli's Recipe dumper - dump recipes and ore dictionary"
+    }
+]
