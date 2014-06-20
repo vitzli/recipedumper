@@ -23,10 +23,10 @@ See examples/ dir.
 Download
 --------
 
-https://www.dropbox.com/s/xgqqtp6wf5bpmvz/vsRecipeDumper-0.0.2.zip
+https://www.dropbox.com/s/x4gyau271yoicdj/vsRecipeDumper-0.0.3.zip
 
-* md5: af2392142d4d8a829017400841865103
-* sha1: 14b4669b07972a6eb57d35d03efd9bad856f18ef
+* md5: 19ab5f17b504ed4c91c9a1ce8b5e951e
+* sha1: b2a1b1f860ea9a9f652b615cc04fe440a41176a0
 
 
 License
