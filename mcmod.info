@@ -6,10 +6,10 @@
         "logoFile": "", 
         "updateUrl": "", 
         "credits": "",
-        "version": "0.0.3", 
+        "version": "0.0.4",
         "modid": "vsRecipeDumper", 
         "authors": [
-            "hubertnnn"
+            "vitzli"
         ], 
         "mcversion": "1.6.4", 
         "screenshots": [], 

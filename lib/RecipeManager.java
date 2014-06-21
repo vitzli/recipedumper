@@ -168,7 +168,7 @@ public class RecipeManager {
 			
 			for (String oreName : OreDictionary.getOreNames()) {
 				
-				description = String.format("@%s!", oreName);
+				description = String.format("recipedumper:oredict!@%s->", oreName);
 
 				for (ItemStack is : OreDictionary.getOres(oreName)) {
 					IDHandler.updateMap(is);
