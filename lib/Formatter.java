@@ -35,7 +35,7 @@ public class Formatter {
         if (is == null) {
             return String.format("*item!%d:%d not found", itemId, meta);
         }
-        return String.format("recipedumper:item!%d:%d U=%s L=%s", is.itemID, is.getItemDamage(), getUnlocalizedName(is), getDisplayName(is));
+        return String.format("recipedumper:item!%d:%d U=%s||L=%s", is.itemID, is.getItemDamage(), getUnlocalizedName(is), getDisplayName(is));
     }
     
     public static String getWHString(int width, int height) {
@@ -60,6 +60,10 @@ public class Formatter {
             //
         }
         return out;     
+    }
+    
+    public static String getBooleanString(boolean value) {
+    	return value ? "True" : "False";
     }
 
 }

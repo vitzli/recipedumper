@@ -11,6 +11,8 @@ import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
 import net.minecraft.item.crafting.CraftingManager;
 import net.minecraftforge.oredict.OreDictionary;
+import net.minecraftforge.fluids.Fluid;
+import net.minecraftforge.fluids.FluidRegistry;
 import cpw.mods.fml.common.FMLLog;
 import cpw.mods.fml.common.Loader;
 import vitzli.recipedumper.RecipeDumper;
@@ -76,6 +78,10 @@ public class RecipeManager {
 		dumpRecipes();
 		// dumpIdMap();
 		dumpItems();		
+	}
+	
+	public void cmdDumpFluids(){
+		dumpFluidRegistry();
 	}
 	
 
@@ -182,5 +188,37 @@ public class RecipeManager {
 			LogHelper.severe("Exception during dumping ore dictionary");
 			ex.printStackTrace();
 		}
+	}
+	
+	private void dumpFluidRegistry() {
+		LogHelper.fine("Dumping fluid registry...");
+		final String fluidFmt = "recipedumper:fluid!@%s->(%d:%d)(%d:%d:%d:%d:%d)(%s) U=%s||L=%s";
+		
+		try {
+			
+			File fp = Configuration.createFluidFile();
+			Writer fluidWriter = new FileWriter(fp);
+			
+			for (Entry<String, Fluid> entryFluid : FluidRegistry.getRegisteredFluids().entrySet()) {
+				Fluid fluidSample = entryFluid.getValue();
+				String formattedFluid = String.format(fluidFmt,
+						fluidSample.getName(),
+						fluidSample.getID(),
+						fluidSample.getBlockID(),
+						fluidSample.getColor(),
+						fluidSample.getDensity(),
+						fluidSample.getLuminosity(),
+						fluidSample.getTemperature(),
+						fluidSample.getViscosity(),
+						Formatter.getBooleanString(fluidSample.isGaseous()),
+						fluidSample.getUnlocalizedName(),
+						fluidSample.getLocalizedName());
+				fluidWriter.write(formattedFluid + "\n");
+			}
+			fluidWriter.close();
+		} catch (Exception ex) {
+			LogHelper.severe("Exception during dumping fluid registry");
+			ex.printStackTrace();
+		}		
 	}
 }

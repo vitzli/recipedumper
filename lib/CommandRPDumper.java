@@ -52,13 +52,17 @@ public class CommandRPDumper extends CommandBase {
 							+ " - prints this text"));
 			icommandsender.sendChatToPlayer(ChatMessageComponent
 					.createFromText(" - " + Reference.COMMAND_ALL
-							+ " - dumps recipes into file"));
+							+ " - dumps everything"));
 			icommandsender.sendChatToPlayer(ChatMessageComponent
 					.createFromText(" - " + Reference.COMMAND_OREDICT
-							+ " - dumps recipes into file"));
+							+ " - dumps ore dictionary"));
 			icommandsender.sendChatToPlayer(ChatMessageComponent
 					.createFromText(" - " + Reference.COMMAND_ITEMRECIPES
-							+ " - dumps recipes into file"));
+							+ " - dumps recipes"));
+			icommandsender.sendChatToPlayer(ChatMessageComponent
+					.createFromText(" - " + Reference.COMMAND_FLUIDS
+							+ " - dumps fluid registry"));
+			return;
 			
 		} else {
 			if (astring[0].equals(Reference.COMMAND_ALL)) {
@@ -67,6 +71,7 @@ public class CommandRPDumper extends CommandBase {
 				icommandsender
 						.sendChatToPlayer(ChatMessageComponent
 								.createFromText("vitzli's recipe dumper: everything dumped"));
+				return;
 			}
 			if (astring[0].equals(Reference.COMMAND_OREDICT)) {
 				// dump ore dictionary
@@ -74,15 +79,24 @@ public class CommandRPDumper extends CommandBase {
 				icommandsender
 						.sendChatToPlayer(ChatMessageComponent
 								.createFromText("vitzli's recipe dumper: ore dictionary dumped"));
+				return;
 			}
 			if (astring[0].equals(Reference.COMMAND_ITEMRECIPES)) {
-				// dump ore dictionary
+				// dump item recipes
 				recipedumper.recipemanager.cmdDumpItemRecipes();
 				icommandsender
 						.sendChatToPlayer(ChatMessageComponent
 								.createFromText("vitzli's recipe dumper: items dumped"));
+				return;
 			}
-			
+			if (astring[0].equals(Reference.COMMAND_FLUIDS)) {
+				// dump fluid registry
+				recipedumper.recipemanager.cmdDumpFluids();
+				icommandsender
+						.sendChatToPlayer(ChatMessageComponent
+								.createFromText("vitzli's recipe dumper: fluid registry dumped"));
+				return;
+			}
 		}
 	}
 
@@ -103,6 +117,7 @@ public class CommandRPDumper extends CommandBase {
 		options.add(Reference.COMMAND_ALL);
 		options.add(Reference.COMMAND_OREDICT);
 		options.add(Reference.COMMAND_ITEMRECIPES);
+		options.add(Reference.COMMAND_FLUIDS);
 		return options;
 	}
 

@@ -23,6 +23,10 @@ public class Configuration {
     public static File createIdMapFile() {
         return createFile("idmap.log");
     }
+    
+    public static File createFluidFile(){
+    	return createFile("fluidreg.log");
+    }
 
     
     private static File createFile(String filename)

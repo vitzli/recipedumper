@@ -1,0 +1,441 @@
+recipedumper:fluid!@custard->(132:-1)(16777215:1000:0:295:1000)(False) U=fluid.custard||L=Custard
+recipedumper:fluid!@minechem chemical: arginine->(256:-1)(12430392:10:0:295:1000)(False) U=fluid.Minechem Chemical: Arginine||L=fluid.Minechem Chemical: Arginine
+recipedumper:fluid!@minechem chemical: copper(ii) sulfate->(236:-1)(15546116:10:0:295:1000)(False) U=fluid.Minechem Chemical: Copper(II) Sulfate||L=fluid.Minechem Chemical: Copper(II) Sulfate
+recipedumper:fluid!@fluidwitcheryspirit->(145:1850)(16777215:500:0:295:2000)(False) U=fluid.fluidwitcheryspirit||L=Flowing Spirit
+recipedumper:fluid!@tungsten->(398:-1)(129:10:0:295:1000)(False) U=fluid.Tungsten||L=fluid.Tungsten
+recipedumper:fluid!@holmium->(391:-1)(1048577:10:0:295:1000)(False) U=fluid.Holmium||L=fluid.Holmium
+recipedumper:fluid!@protein->(180:3609)(16777215:1000:0:295:1000)(False) U=fluid.gendustry.protein||L=Protein
+recipedumper:fluid!@molybdenum->(366:-1)(129:10:0:295:1000)(False) U=fluid.Molybdenum||L=fluid.Molybdenum
+recipedumper:fluid!@cadmium->(372:-1)(129:10:0:295:1000)(False) U=fluid.Cadmium||L=fluid.Cadmium
+recipedumper:fluid!@minechem chemical: cocaine hydrochloride->(282:-1)(11866889:10:0:295:1000)(False) U=fluid.Minechem Chemical: Cocaine Hydrochloride||L=fluid.Minechem Chemical: Cocaine Hydrochloride
+recipedumper:fluid!@molten.adamantine->(89:2289)(16777215:3000:15:1300:6000)(False) U=fluid.molten.adamantine||L=Molten Adamantine
+recipedumper:fluid!@minechem chemical: zinc green->(238:-1)(7010379:10:0:295:1000)(False) U=fluid.Minechem Chemical: Zinc Green||L=fluid.Minechem Chemical: Zinc Green
+recipedumper:fluid!@gas.natural->(165:-1)(16777215:1000:0:295:1000)(False) U=fluid.gas.natural||L=Natural Gas
+recipedumper:fluid!@gascraft_plasma->(178:3178)(16777215:-1000:15:2600:100)(True) U=fluid.gasCraft_plasma||L=Nether Plasma
+recipedumper:fluid!@chocolatemilk->(12:1040)(16777215:1100:0:295:1100)(False) U=fluid.mfr.liquid.chocolatemilk.still||L=Chocolate Milk
+recipedumper:fluid!@lithium->(329:-1)(256:10:0:295:1000)(False) U=fluid.Lithium||L=fluid.Lithium
+recipedumper:fluid!@minechem chemical: lysine->(314:-1)(14172018:10:0:295:1000)(False) U=fluid.Minechem Chemical: Lysine||L=fluid.Minechem Chemical: Lysine
+recipedumper:fluid!@bop.honey->(16:1989)(16777215:1000:0:295:1500)(False) U=fluid.bop.honey||L=fluid.bop.honey
+recipedumper:fluid!@mendelevium->(425:-1)(1048576:10:0:295:1000)(False) U=fluid.Mendelevium||L=fluid.Mendelevium
+recipedumper:fluid!@molten.prometheum->(101:2301)(16777215:3000:15:1300:6000)(False) U=fluid.molten.prometheum||L=Molten Prometheum
+recipedumper:fluid!@fluxgoo->(23:2611)(16777215:8:7:295:6000)(False) U=fluid.fluxGoo||L=Flux Goo
+recipedumper:fluid!@minechem chemical: methyl (ion)->(228:-1)(1151753:10:0:295:1000)(False) U=fluid.Minechem Chemical: Methyl (ion)||L=fluid.Minechem Chemical: Methyl (ion)
+recipedumper:fluid!@osmium->(400:-1)(129:10:0:295:1000)(False) U=fluid.Osmium||L=fluid.Osmium
+recipedumper:fluid!@minechem chemical: calcium carbonate->(206:-1)(7638596:10:0:295:1000)(False) U=fluid.Minechem Chemical: Calcium Carbonate||L=fluid.Minechem Chemical: Calcium Carbonate
+recipedumper:fluid!@molten.kalendrite->(81:2281)(16777215:3000:15:1300:6000)(False) U=fluid.molten.kalendrite||L=Molten Kalendrite
+recipedumper:fluid!@zinc->(354:-1)(129:10:0:295:1000)(False) U=fluid.Zinc||L=fluid.Zinc
+recipedumper:fluid!@minechem chemical: ethyl alcohol->(243:-1)(3888471:10:0:295:1000)(False) U=fluid.Minechem Chemical: Ethyl Alcohol||L=fluid.Minechem Chemical: Ethyl Alcohol
+recipedumper:fluid!@minechem chemical: methyl alcohol->(288:-1)(14589042:10:0:295:1000)(False) U=fluid.Minechem Chemical: Methyl Alcohol||L=fluid.Minechem Chemical: Methyl Alcohol
+recipedumper:fluid!@minechem chemical: guaiazulene->(283:-1)(3137080:10:0:295:1000)(False) U=fluid.Minechem Chemical: Guaiazulene||L=fluid.Minechem Chemical: Guaiazulene
+recipedumper:fluid!@cobalt.molten->(47:3206)(16777215:3000:12:1300:6000)(False) U=fluid.cobalt.molten||L=Molten Cobalt
+recipedumper:fluid!@radon->(410:-1)(257:10:0:295:1000)(False) U=fluid.Radon||L=fluid.Radon
+recipedumper:fluid!@minechem chemical: trinitrotoluene->(187:-1)(16842752:10:0:295:1000)(False) U=fluid.Minechem Chemical: Trinitrotoluene||L=fluid.Minechem Chemical: Trinitrotoluene
+recipedumper:fluid!@oil->(3:1521)(16777215:800:0:295:1500)(False) U=fluid.oil||L=Oil
+recipedumper:fluid!@minechem chemical: keratin->(327:-1)(16356197:10:0:295:1000)(False) U=fluid.Minechem Chemical: Keratin||L=fluid.Minechem Chemical: Keratin
+recipedumper:fluid!@nobelium->(426:-1)(1048576:10:0:295:1000)(False) U=fluid.Nobelium||L=fluid.Nobelium
+recipedumper:fluid!@glowstone->(155:2717)(16777215:-500:15:350:100)(True) U=fluid.glowstone||L=Energized Glowstone
+recipedumper:fluid!@aluminumbrass.molten->(50:3209)(16777215:3000:12:1300:6000)(False) U=fluid.aluminumbrass.molten||L=Molten Aluminum Brass
+recipedumper:fluid!@minechem chemical: carbon dioxide->(183:-1)(8421504:10:0:295:1000)(False) U=fluid.Minechem Chemical: Carbon Dioxide||L=fluid.Minechem Chemical: Carbon Dioxide
+recipedumper:fluid!@minechem chemical: tyrosine->(316:-1)(6184318:10:0:295:1000)(False) U=fluid.Minechem Chemical: Tyrosine||L=fluid.Minechem Chemical: Tyrosine
+recipedumper:fluid!@fastwater->(129:545)(16777215:1000:0:295:1000)(False) U=fluid.fastwater||L=Pressurised Water
+recipedumper:fluid!@minechem chemical: acetate (ion)->(199:-1)(9393041:10:0:295:1000)(False) U=fluid.Minechem Chemical: Acetate (ion)||L=fluid.Minechem Chemical: Acetate (ion)
+recipedumper:fluid!@minechem chemical: histidine->(317:-1)(13082122:10:0:295:1000)(False) U=fluid.Minechem Chemical: Histidine||L=fluid.Minechem Chemical: Histidine
+recipedumper:fluid!@phosphorus->(340:-1)(1048704:10:0:295:1000)(False) U=fluid.Phosphorus||L=fluid.Phosphorus
+recipedumper:fluid!@molten.deep.iron->(95:2295)(16777215:3000:15:1300:6000)(False) U=fluid.molten.deep.iron||L=Molten Deep Iron
+recipedumper:fluid!@pigiron.molten->(68:-1)(16777215:3000:0:1300:6000)(False) U=fluid.pigiron.molten||L=Pig Iron
+recipedumper:fluid!@peat->(438:-1)(-11719678:1000:0:295:1000)(False) U=fluid.liquid.pff.liquidpeat.name||L=Liquid Peat
+recipedumper:fluid!@xpjuice->(138:-1)(16777215:800:10:295:1500)(False) U=fluid.OpenBlocks.xpjuice||L=Liquid XP
+recipedumper:fluid!@hydrogen->(27:-1)(16777215:1000:0:295:1000)(True) U=fluid.hydrogen||L=Liquid Hydrogen
+recipedumper:fluid!@molten conductive redmetal->(441:2134)(16777215:2000:12:295:4000)(False) U=fluid.Molten Conductive Redmetal||L=fluid.Molten Conductive Redmetal
+recipedumper:fluid!@roentgenium->(435:-1)(129:10:0:295:1000)(False) U=fluid.Roentgenium||L=fluid.Roentgenium
+recipedumper:fluid!@lead->(406:-1)(524544:10:0:295:1000)(False) U=fluid.Lead||L=fluid.Lead
+recipedumper:fluid!@tritium->(140:-1)(16777215:1000:0:295:1000)(True) U=fluid.tritium||L=Tritium
+recipedumper:fluid!@minechem chemical: potassium dichromate->(233:-1)(13272767:10:0:295:1000)(False) U=fluid.Minechem Chemical: Potassium Dichromate||L=fluid.Minechem Chemical: Potassium Dichromate
+recipedumper:fluid!@iodine->(377:-1)(1048832:10:0:295:1000)(False) U=fluid.Iodine||L=fluid.Iodine
+recipedumper:fluid!@minechem chemical: malic acid->(212:-1)(3634601:10:0:295:1000)(False) U=fluid.Minechem Chemical: Malic Acid||L=fluid.Minechem Chemical: Malic Acid
+recipedumper:fluid!@minechem chemical: poly(methyl methacrylate)->(231:-1)(3324307:10:0:295:1000)(False) U=fluid.Minechem Chemical: Poly(methyl methacrylate)||L=fluid.Minechem Chemical: Poly(methyl methacrylate)
+recipedumper:fluid!@minechem chemical: hydrogen peroxide->(296:-1)(928838:10:0:295:1000)(False) U=fluid.Minechem Chemical: Hydrogen Peroxide||L=fluid.Minechem Chemical: Hydrogen Peroxide
+recipedumper:fluid!@silver.molten->(61:3195)(16777215:3000:0:1300:6000)(False) U=fluid.silver.molten||L=Molten Silver
+recipedumper:fluid!@minechem chemical: water->(182:-1)(256:10:0:295:1000)(False) U=fluid.Minechem Chemical: Water||L=fluid.Minechem Chemical: Water
+recipedumper:fluid!@molten.damascus.steel->(70:2271)(16777215:3000:15:1300:6000)(False) U=fluid.molten.damascus.steel||L=Molten Damascus Steel
+recipedumper:fluid!@californium->(422:-1)(1048576:10:0:295:1000)(False) U=fluid.Californium||L=fluid.Californium
+recipedumper:fluid!@molten.astral.silver->(90:2290)(16777215:3000:15:1300:6000)(False) U=fluid.molten.astral.silver||L=Molten Astral Silver
+recipedumper:fluid!@minechem chemical: sodium oxide->(301:-1)(9580529:10:0:295:1000)(False) U=fluid.Minechem Chemical: Sodium Oxide||L=fluid.Minechem Chemical: Sodium Oxide
+recipedumper:fluid!@minechem chemical: glutamic acid->(325:-1)(12806502:10:0:295:1000)(False) U=fluid.Minechem Chemical: Glutamic Acid||L=fluid.Minechem Chemical: Glutamic Acid
+recipedumper:fluid!@minechem chemical: carbon black->(239:-1)(14487276:10:0:295:1000)(False) U=fluid.Minechem Chemical: Carbon Black||L=fluid.Minechem Chemical: Carbon Black
+recipedumper:fluid!@minechem chemical: noselite->(193:-1)(14305273:10:0:295:1000)(False) U=fluid.Minechem Chemical: Noselite||L=fluid.Minechem Chemical: Noselite
+recipedumper:fluid!@ununtrium->(437:-1)(129:10:0:295:1000)(False) U=fluid.Ununtrium||L=fluid.Ununtrium
+recipedumper:fluid!@minechem chemical: glycine->(225:-1)(9955232:10:0:295:1000)(False) U=fluid.Minechem Chemical: Glycine||L=fluid.Minechem Chemical: Glycine
+recipedumper:fluid!@molten.sanguinite->(84:2284)(16777215:3000:15:1300:6000)(False) U=fluid.molten.sanguinite||L=Molten Sanguinite
+recipedumper:fluid!@darmstadtium->(434:-1)(129:10:0:295:1000)(False) U=fluid.Darmstadtium||L=fluid.Darmstadtium
+recipedumper:fluid!@platinum->(402:-1)(129:10:0:295:1000)(False) U=fluid.Platinum||L=fluid.Platinum
+recipedumper:fluid!@tin.molten->(45:4091)(16777215:3000:12:1300:6000)(False) U=fluid.tin.molten||L=Molten Tin
+recipedumper:fluid!@oil.fish->(131:-1)(16777215:1000:0:295:1000)(False) U=fluid.oil.fish||L=Fish Oil
+recipedumper:fluid!@uranium->(416:-1)(1048576:10:0:295:1000)(False) U=fluid.Uranium||L=fluid.Uranium
+recipedumper:fluid!@nutrientwater->(163:3180)(16777215:1000:0:295:1000)(False) U=fluid.nutrientWater||L=Nutrient Water
+recipedumper:fluid!@polonium->(408:-1)(256:10:0:295:1000)(False) U=fluid.Polonium||L=fluid.Polonium
+recipedumper:fluid!@minechem chemical: olivine->(286:-1)(14415754:10:0:295:1000)(False) U=fluid.Minechem Chemical: Olivine||L=fluid.Minechem Chemical: Olivine
+recipedumper:fluid!@molten.infuscolium->(97:2297)(16777215:3000:15:1300:6000)(False) U=fluid.molten.infuscolium||L=Molten Infuscolium
+recipedumper:fluid!@berkelium->(421:-1)(1048576:10:0:295:1000)(False) U=fluid.Berkelium||L=fluid.Berkelium
+recipedumper:fluid!@tellurium->(376:-1)(256:10:0:295:1000)(False) U=fluid.Tellurium||L=fluid.Tellurium
+recipedumper:fluid!@rhenium->(399:-1)(129:10:0:295:1000)(False) U=fluid.Rhenium||L=fluid.Rhenium
+recipedumper:fluid!@biofuel->(9:1043)(16777215:800:0:295:800)(False) U=fluid.mfr.liquid.biofuel.still||L=Biofuel
+recipedumper:fluid!@molten.brass->(73:2274)(16777215:3000:15:1300:6000)(False) U=fluid.molten.brass||L=Molten Brass
+recipedumper:fluid!@minechem chemical: magnesium carbonate->(207:-1)(4114869:10:0:295:1000)(False) U=fluid.Minechem Chemical: Magnesium Carbonate||L=fluid.Minechem Chemical: Magnesium Carbonate
+recipedumper:fluid!@nitrogen->(333:-1)(1048704:10:0:295:1000)(False) U=fluid.Nitrogen||L=fluid.Nitrogen
+recipedumper:fluid!@hafnium->(396:-1)(129:10:0:295:1000)(False) U=fluid.Hafnium||L=fluid.Hafnium
+recipedumper:fluid!@mutagen->(179:3600)(16777215:1000:0:295:1000)(False) U=fluid.gendustry.mutagen||L=Mutagen
+recipedumper:fluid!@coal->(158:2722)(16777215:900:0:300:2000)(False) U=fluid.coal||L=Liquifacted Coal
+recipedumper:fluid!@ice->(153:-1)(16777215:1000:0:295:1000)(False) U=fluid.ice||L=Crushed Ice
+recipedumper:fluid!@fuel->(4:1531)(16777215:1000:0:295:1000)(False) U=fluid.fuel||L=Fuel
+recipedumper:fluid!@minechem chemical: penicillin->(252:-1)(4814368:10:0:295:1000)(False) U=fluid.Minechem Chemical: Penicillin||L=fluid.Minechem Chemical: Penicillin
+recipedumper:fluid!@minechem chemical: toluene->(185:-1)(16843008:10:0:295:1000)(False) U=fluid.Minechem Chemical: Toluene||L=fluid.Minechem Chemical: Toluene
+recipedumper:fluid!@rubidium->(361:-1)(256:10:0:295:1000)(False) U=fluid.Rubidium||L=fluid.Rubidium
+recipedumper:fluid!@alumite.molten->(52:3211)(16777215:3000:12:1300:6000)(False) U=fluid.alumite.molten||L=Molten Alumite
+recipedumper:fluid!@sodium->(336:-1)(256:10:0:295:1000)(False) U=fluid.Sodium||L=fluid.Sodium
+recipedumper:fluid!@minechem chemical: peridot->(309:-1)(14986375:10:0:295:1000)(False) U=fluid.Minechem Chemical: Peridot||L=fluid.Minechem Chemical: Peridot
+recipedumper:fluid!@francium->(411:-1)(256:10:0:295:1000)(False) U=fluid.Francium||L=fluid.Francium
+recipedumper:fluid!@gadolinium->(388:-1)(1048577:10:0:295:1000)(False) U=fluid.Gadolinium||L=fluid.Gadolinium
+recipedumper:fluid!@acid->(38:-1)(11528985:1000:0:295:1000)(False) U=fluid.acid||L=Acid
+recipedumper:fluid!@aluminum.molten->(46:3205)(16777215:3000:12:1300:6000)(False) U=fluid.aluminum.molten||L=Molten Aluminum
+recipedumper:fluid!@minechem chemical: methylene (ion)->(229:-1)(10743531:10:0:295:1000)(False) U=fluid.Minechem Chemical: Methylene (ion)||L=fluid.Minechem Chemical: Methylene (ion)
+recipedumper:fluid!@neodymium->(384:-1)(1048577:10:0:295:1000)(False) U=fluid.Neodymium||L=fluid.Neodymium
+recipedumper:fluid!@minechem chemical: iron (iii) oxide->(217:-1)(12716420:10:0:295:1000)(False) U=fluid.Minechem Chemical: Iron (III) Oxide||L=fluid.Minechem Chemical: Iron (III) Oxide
+recipedumper:fluid!@calcium->(344:-1)(1:10:0:295:1000)(False) U=fluid.Calcium||L=fluid.Calcium
+recipedumper:fluid!@minechem chemical: cocaine->(281:-1)(4867482:10:0:295:1000)(False) U=fluid.Minechem Chemical: Cocaine||L=fluid.Minechem Chemical: Cocaine
+recipedumper:fluid!@minechem chemical: talc->(307:-1)(1665721:10:0:295:1000)(False) U=fluid.Minechem Chemical: Talc||L=fluid.Minechem Chemical: Talc
+recipedumper:fluid!@selenium->(358:-1)(1048704:10:0:295:1000)(False) U=fluid.Selenium||L=fluid.Selenium
+recipedumper:fluid!@molten.mithril->(98:2298)(16777215:3000:15:1300:6000)(False) U=fluid.molten.mithril||L=Molten Mithril
+recipedumper:fluid!@rhodium->(369:-1)(129:10:0:295:1000)(False) U=fluid.Rhodium||L=fluid.Rhodium
+recipedumper:fluid!@honey->(151:-1)(16777215:1000:0:295:1000)(False) U=fluid.honey||L=Honey
+recipedumper:fluid!@minechem chemical: magnesium oxide->(220:-1)(16617630:10:0:295:1000)(False) U=fluid.Minechem Chemical: Magnesium Oxide||L=fluid.Minechem Chemical: Magnesium Oxide
+recipedumper:fluid!@emerald.liquid->(57:3216)(16777215:3000:0:1300:6000)(False) U=fluid.emerald.liquid||L=Liquified Emerald
+recipedumper:fluid!@barium->(380:-1)(1:10:0:295:1000)(False) U=fluid.Barium||L=fluid.Barium
+recipedumper:fluid!@tantalum->(397:-1)(129:10:0:295:1000)(False) U=fluid.Tantalum||L=fluid.Tantalum
+recipedumper:fluid!@glass.molten->(55:3214)(16777215:3000:12:1300:6000)(False) U=fluid.glass.molten||L=Molten Glass
+recipedumper:fluid!@minechem chemical: biotite->(305:-1)(4071612:10:0:295:1000)(False) U=fluid.Minechem Chemical: Biotite||L=fluid.Minechem Chemical: Biotite
+recipedumper:fluid!@rutile.molten->(170:-1)(16777215:1000:0:295:1000)(False) U=fluid.rutile.molten||L=Impure Molten Titanium
+recipedumper:fluid!@minechem chemical: ddt->(261:-1)(3484703:10:0:295:1000)(False) U=fluid.Minechem Chemical: DDT||L=fluid.Minechem Chemical: DDT
+recipedumper:fluid!@antimony->(375:-1)(256:10:0:295:1000)(False) U=fluid.Antimony||L=fluid.Antimony
+recipedumper:fluid!@molten.rubracium->(103:2303)(16777215:3000:15:1300:6000)(False) U=fluid.molten.rubracium||L=Molten Rubracium
+recipedumper:fluid!@minechem chemical: mescaline->(227:-1)(5057357:10:0:295:1000)(False) U=fluid.Minechem Chemical: Mescaline||L=fluid.Minechem Chemical: Mescaline
+recipedumper:fluid!@minechem chemical: nickel(ii) chloride->(235:-1)(7040057:10:0:295:1000)(False) U=fluid.Minechem Chemical: Nickel(II) Chloride||L=fluid.Minechem Chemical: Nickel(II) Chloride
+recipedumper:fluid!@titanium.molten->(169:-1)(16777215:1000:0:295:1000)(False) U=fluid.titanium.molten||L=Molten Titanium
+recipedumper:fluid!@cryotheum->(157:2720)(16777215:4000:0:50:3000)(False) U=fluid.cryotheum||L=Gelid Cryotheum
+recipedumper:fluid!@minechem chemical: pyrite->(190:-1)(2272186:10:0:295:1000)(False) U=fluid.Minechem Chemical: Pyrite||L=fluid.Minechem Chemical: Pyrite
+recipedumper:fluid!@grc.hopale0->(120:-1)(13290055:1000:0:295:1000)(False) U=fluid.grc.hopAle0||L=Ale
+recipedumper:fluid!@grc.hopale2->(122:-1)(13290055:1000:0:295:1000)(False) U=fluid.grc.hopAle2||L=Ale
+recipedumper:fluid!@minechem chemical: retinol->(276:-1)(2729343:10:0:295:1000)(False) U=fluid.Minechem Chemical: Retinol||L=fluid.Minechem Chemical: Retinol
+recipedumper:fluid!@grc.hopale1->(121:-1)(13290055:1000:0:295:1000)(False) U=fluid.grc.hopAle1||L=Ale
+recipedumper:fluid!@grc.hopale4->(124:-1)(13290055:1000:0:295:1000)(False) U=fluid.grc.hopAle4||L=Ale
+recipedumper:fluid!@grc.hopale3->(123:-1)(13290055:1000:0:295:1000)(False) U=fluid.grc.hopAle3||L=Ale
+recipedumper:fluid!@nickel.molten->(59:3197)(16777215:3000:0:1300:6000)(False) U=fluid.nickel.molten||L=Molten Nickel
+recipedumper:fluid!@minechem chemical: butene->(210:-1)(3144065:10:0:295:1000)(False) U=fluid.Minechem Chemical: Butene||L=fluid.Minechem Chemical: Butene
+recipedumper:fluid!@copernicium->(436:-1)(129:10:0:295:1000)(False) U=fluid.Copernicium||L=fluid.Copernicium
+recipedumper:fluid!@vegetable->(439:-1)(-57039:1000:0:295:1000)(False) U=fluid.liquid.pff.veggiejuice.name||L=Veggie Juice
+recipedumper:fluid!@steel.molten->(54:3213)(16777215:3000:12:1300:6000)(False) U=fluid.steel.molten||L=Molten Steel
+recipedumper:fluid!@minechem chemical: nitrogen dioxide->(184:-1)(16819712:10:0:295:1000)(False) U=fluid.Minechem Chemical: Nitrogen Dioxide||L=fluid.Minechem Chemical: Nitrogen Dioxide
+recipedumper:fluid!@strontium->(362:-1)(1:10:0:295:1000)(False) U=fluid.Strontium||L=fluid.Strontium
+recipedumper:fluid!@minechem chemical: propane->(308:-1)(16083299:10:0:295:1000)(False) U=fluid.Minechem Chemical: Propane||L=fluid.Minechem Chemical: Propane
+recipedumper:fluid!@oxygen->(28:-1)(16777215:1000:0:295:1000)(True) U=fluid.oxygen||L=Liquid Oxygen
+recipedumper:fluid!@gascraft_toxicgas->(175:3168)(16777215:-1000:0:295:100)(True) U=fluid.gasCraft_toxicGas||L=Toxic Gas
+recipedumper:fluid!@biomass->(148:-1)(16777215:1000:0:295:1000)(False) U=fluid.biomass||L=Biomass
+recipedumper:fluid!@gascraft_hydrogen->(173:3163)(16777215:-1000:0:295:100)(True) U=fluid.gasCraft_hydrogen||L=Hydrogen
+recipedumper:fluid!@liquidnitrogen->(40:-1)(9881800:1000:0:295:1000)(False) U=fluid.liquidnitrogen||L=Liquid Nitrogen
+recipedumper:fluid!@fluidwitcheryhollowtears->(146:1844)(16777215:100:0:295:1500)(False) U=fluid.fluidwitcheryhollowtears||L=Hollow Tears
+recipedumper:fluid!@uraniumhexafluoride->(139:-1)(16777215:1000:0:295:1000)(True) U=fluid.uraniumhexafluoride||L=Uranium Hexafluoride
+recipedumper:fluid!@minechem chemical: testosterone->(253:-1)(2840333:10:0:295:1000)(False) U=fluid.Minechem Chemical: Testosterone||L=fluid.Minechem Chemical: Testosterone
+recipedumper:fluid!@neon->(335:-1)(257:10:0:295:1000)(False) U=fluid.Neon||L=fluid.Neon
+recipedumper:fluid!@minechem chemical: isoprene->(209:-1)(11517359:10:0:295:1000)(False) U=fluid.Minechem Chemical: Isoprene||L=fluid.Minechem Chemical: Isoprene
+recipedumper:fluid!@minechem chemical: potassium permanganate->(237:-1)(16058592:10:0:295:1000)(False) U=fluid.Minechem Chemical: Potassium Permanganate||L=fluid.Minechem Chemical: Potassium Permanganate
+recipedumper:fluid!@water->(1:9)(16777215:1000:0:295:1000)(False) U=fluid.tile.water||L=Water
+recipedumper:fluid!@molten.shadow.steel->(86:2286)(16777215:3000:15:1300:6000)(False) U=fluid.molten.shadow.steel||L=Molten Shadow Steel
+recipedumper:fluid!@minechem chemical: dota->(262:-1)(1973042:10:0:295:1000)(False) U=fluid.Minechem Chemical: DOTA||L=fluid.Minechem Chemical: DOTA
+recipedumper:fluid!@minechem chemical: leucine->(321:-1)(1502753:10:0:295:1000)(False) U=fluid.Minechem Chemical: Leucine||L=fluid.Minechem Chemical: Leucine
+recipedumper:fluid!@minechem chemical: phosgene->(272:-1)(906913:10:0:295:1000)(False) U=fluid.Minechem Chemical: Phosgene||L=fluid.Minechem Chemical: Phosgene
+recipedumper:fluid!@minechem chemical: cellulose->(181:-1)(65536:10:0:295:1000)(False) U=fluid.Minechem Chemical: Cellulose||L=fluid.Minechem Chemical: Cellulose
+recipedumper:fluid!@minechem chemical: hydroxide (ion)->(201:-1)(11658497:10:0:295:1000)(False) U=fluid.Minechem Chemical: Hydroxide (ion)||L=fluid.Minechem Chemical: Hydroxide (ion)
+recipedumper:fluid!@bop.liquidpoison->(14:1973)(16777215:1000:0:295:2500)(False) U=fluid.bop.liquidPoison||L=Liquid Poison
+recipedumper:fluid!@sulfur->(341:-1)(1048704:10:0:295:1000)(False) U=fluid.Sulfur||L=fluid.Sulfur
+recipedumper:fluid!@magnesium.molten->(168:-1)(16777215:1000:0:295:1000)(False) U=fluid.magnesium.molten||L=Molten Magnesium
+recipedumper:fluid!@minechem chemical: allyl alcohol->(273:-1)(10316616:10:0:295:1000)(False) U=fluid.Minechem Chemical: Allyl Alcohol||L=fluid.Minechem Chemical: Allyl Alcohol
+recipedumper:fluid!@molten.orichalcum->(99:2299)(16777215:3000:15:1300:6000)(False) U=fluid.molten.orichalcum||L=Molten Orichalcum
+recipedumper:fluid!@creosote->(24:490)(16777215:800:0:295:1500)(False) U=fluid.creosote||L=Creosote Oil
+recipedumper:fluid!@sludge->(6:1037)(16777215:1700:0:295:1700)(False) U=fluid.mfr.liquid.sludge.still||L=Sludge
+recipedumper:fluid!@bismuth->(407:-1)(524544:10:0:295:1000)(False) U=fluid.Bismuth||L=fluid.Bismuth
+recipedumper:fluid!@molten.dirt->(133:-1)(16777215:1000:0:295:1000)(False) U=fluid.dirt||L=Molten Dirt
+recipedumper:fluid!@terbium->(389:-1)(1048577:10:0:295:1000)(False) U=fluid.Terbium||L=fluid.Terbium
+recipedumper:fluid!@quicklime->(166:-1)(16777215:1000:0:295:1000)(False) U=fluid.quicklime||L=Quicklime
+recipedumper:fluid!@minechem chemical: nepheline->(191:-1)(10983740:10:0:295:1000)(False) U=fluid.Minechem Chemical: Nepheline||L=fluid.Minechem Chemical: Nepheline
+recipedumper:fluid!@molten.vulcanite->(87:2287)(16777215:3000:15:1300:6000)(False) U=fluid.molten.vulcanite||L=Molten Vulcanite
+recipedumper:fluid!@resin->(19:-1)(13199360:1000:0:295:1000)(False) U=fluid.resin||L=Resin
+recipedumper:fluid!@molten.ignatius->(79:2279)(16777215:3000:15:1300:6000)(False) U=fluid.molten.ignatius||L=Molten Ignatius
+recipedumper:fluid!@erbium->(392:-1)(1048577:10:0:295:1000)(False) U=fluid.Erbium||L=fluid.Erbium
+recipedumper:fluid!@dubnium->(429:-1)(129:10:0:295:1000)(False) U=fluid.Dubnium||L=fluid.Dubnium
+recipedumper:fluid!@molten.alduorite->(77:2277)(16777215:3000:15:1300:6000)(False) U=fluid.molten.alduorite||L=Molten Alduorite
+recipedumper:fluid!@liquidessence->(26:1135)(16777215:8:0:295:3000)(False) U=fluid.liquidEssence||L=fluid.liquidEssence
+recipedumper:fluid!@molten.zinc->(75:2275)(16777215:3000:15:1300:6000)(False) U=fluid.molten.zinc||L=Molten Zinc
+recipedumper:fluid!@minechem chemical: sucrose->(247:-1)(13465304:10:0:295:1000)(False) U=fluid.Minechem Chemical: Sucrose||L=fluid.Minechem Chemical: Sucrose
+recipedumper:fluid!@minechem chemical: pantherine->(248:-1)(9936285:10:0:295:1000)(False) U=fluid.Minechem Chemical: Pantherine||L=fluid.Minechem Chemical: Pantherine
+recipedumper:fluid!@minechem chemical: hydronium (ion)->(203:-1)(15510115:10:0:295:1000)(False) U=fluid.Minechem Chemical: Hydronium (ion)||L=fluid.Minechem Chemical: Hydronium (ion)
+recipedumper:fluid!@minechem chemical: caulerpenyne->(291:-1)(2410925:10:0:295:1000)(False) U=fluid.Minechem Chemical: Caulerpenyne||L=fluid.Minechem Chemical: Caulerpenyne
+recipedumper:fluid!@niobium->(365:-1)(129:10:0:295:1000)(False) U=fluid.Niobium||L=fluid.Niobium
+recipedumper:fluid!@mobessence->(8:1041)(16777215:400:9:310:400)(False) U=fluid.mfr.liquid.mobessence.still||L=Mob Essence
+recipedumper:fluid!@americium->(419:-1)(1048576:10:0:295:1000)(False) U=fluid.Americium||L=fluid.Americium
+recipedumper:fluid!@potassium->(343:-1)(256:10:0:295:1000)(False) U=fluid.Potassium||L=fluid.Potassium
+recipedumper:fluid!@yttrium->(363:-1)(129:10:0:295:1000)(False) U=fluid.Yttrium||L=fluid.Yttrium
+recipedumper:fluid!@bohrium->(431:-1)(129:10:0:295:1000)(False) U=fluid.Bohrium||L=fluid.Bohrium
+recipedumper:fluid!@molten.platinum->(74:2308)(16777215:3000:15:1300:6000)(False) U=fluid.molten.platinum||L=Molten Platinum
+recipedumper:fluid!@magnesium->(337:-1)(1:10:0:295:1000)(False) U=fluid.Magnesium||L=fluid.Magnesium
+recipedumper:fluid!@cyanite->(36:2745)(16777215:100:6:295:100)(False) U=fluid.bigreactors.cyanite.still||L=fluid.bigreactors.cyanite.still
+recipedumper:fluid!@copper->(353:-1)(129:10:0:295:1000)(False) U=fluid.Copper||L=fluid.Copper
+recipedumper:fluid!@silicon->(339:-1)(524544:10:0:295:1000)(False) U=fluid.Silicon||L=fluid.Silicon
+recipedumper:fluid!@minechem chemical: topaz->(310:-1)(9152576:10:0:295:1000)(False) U=fluid.Minechem Chemical: Topaz||L=fluid.Minechem Chemical: Topaz
+recipedumper:fluid!@thallium->(405:-1)(524544:10:0:295:1000)(False) U=fluid.Thallium||L=fluid.Thallium
+recipedumper:fluid!@minechem chemical: tryptophan->(322:-1)(1555510:10:0:295:1000)(False) U=fluid.Minechem Chemical: Tryptophan||L=fluid.Minechem Chemical: Tryptophan
+recipedumper:fluid!@molten.pokefennium->(110:2311)(16777215:3000:15:1300:6000)(False) U=fluid.molten.pokefennium||L=Molten Pokefennium
+recipedumper:fluid!@minechem chemical: pelargonidin->(284:-1)(10818638:10:0:295:1000)(False) U=fluid.Minechem Chemical: Pelargonidin||L=fluid.Minechem Chemical: Pelargonidin
+recipedumper:fluid!@dysprosium->(390:-1)(1048577:10:0:295:1000)(False) U=fluid.Dysprosium||L=fluid.Dysprosium
+recipedumper:fluid!@minechem chemical: shikimic acid->(257:-1)(7024455:10:0:295:1000)(False) U=fluid.Minechem Chemical: Shikimic Acid||L=fluid.Minechem Chemical: Shikimic Acid
+recipedumper:fluid!@palladium->(370:-1)(129:10:0:295:1000)(False) U=fluid.Palladium||L=fluid.Palladium
+recipedumper:fluid!@silver->(371:-1)(129:10:0:295:1000)(False) U=fluid.Silver||L=fluid.Silver
+recipedumper:fluid!@arsenic->(357:-1)(256:10:0:295:1000)(False) U=fluid.Arsenic||L=fluid.Arsenic
+recipedumper:fluid!@minechem chemical: sulfuric acid->(258:-1)(2396424:10:0:295:1000)(False) U=fluid.Minechem Chemical: Sulfuric Acid||L=fluid.Minechem Chemical: Sulfuric Acid
+recipedumper:fluid!@minechem chemical: methylene blue->(287:-1)(4678818:10:0:295:1000)(False) U=fluid.Minechem Chemical: Methylene Blue||L=fluid.Minechem Chemical: Methylene Blue
+recipedumper:fluid!@minechem chemical: tannic acid->(295:-1)(15110931:10:0:295:1000)(False) U=fluid.Minechem Chemical: Tannic Acid||L=fluid.Minechem Chemical: Tannic Acid
+recipedumper:fluid!@minechem chemical: cucurbitacin->(221:-1)(9927037:10:0:295:1000)(False) U=fluid.Minechem Chemical: Cucurbitacin||L=fluid.Minechem Chemical: Cucurbitacin
+recipedumper:fluid!@minechem chemical: carbon nanotubes->(250:-1)(7895160:10:0:295:1000)(False) U=fluid.Minechem Chemical: Carbon Nanotubes||L=fluid.Minechem Chemical: Carbon Nanotubes
+recipedumper:fluid!@minechem chemical: nitrate (ion)->(195:-1)(1482688:10:0:295:1000)(False) U=fluid.Minechem Chemical: Nitrate (ion)||L=fluid.Minechem Chemical: Nitrate (ion)
+recipedumper:fluid!@witchwater->(41:2900)(-6750106:1000:0:295:1000)(False) U=fluid.witchwater||L=fluid.witchwater
+recipedumper:fluid!@lava->(2:11)(16777215:3000:15:1300:6000)(False) U=fluid.tile.lava||L=Lava
+recipedumper:fluid!@gascraft_propellent->(172:3165)(16777215:-1000:0:295:100)(True) U=fluid.gasCraft_propellent||L=Propellent
+recipedumper:fluid!@redstone->(154:2716)(16777215:1200:7:350:1500)(False) U=fluid.redstone||L=Destabilized Redstone
+recipedumper:fluid!@fluidchlorophyll->(144:3960)(16777215:1000:0:295:1000)(False) U=fluid.fluidChlorophyll||L=fluid.fluidChlorophyll
+recipedumper:fluid!@germanium->(356:-1)(256:10:0:295:1000)(False) U=fluid.Germanium||L=fluid.Germanium
+recipedumper:fluid!@thorium->(414:-1)(1048576:10:0:295:1000)(False) U=fluid.Thorium||L=fluid.Thorium
+recipedumper:fluid!@ruthenium->(368:-1)(129:10:0:295:1000)(False) U=fluid.Ruthenium||L=fluid.Ruthenium
+recipedumper:fluid!@minechem chemical: amphetamine->(244:-1)(7197695:10:0:295:1000)(False) U=fluid.Minechem Chemical: Amphetamine||L=fluid.Minechem Chemical: Amphetamine
+recipedumper:fluid!@minechem chemical: aspirin->(260:-1)(2377298:10:0:295:1000)(False) U=fluid.Minechem Chemical: Aspirin||L=fluid.Minechem Chemical: Aspirin
+recipedumper:fluid!@bop.springwater->(15:1971)(16777215:1000:0:295:1000)(False) U=fluid.bop.springWater||L=Spring Water
+recipedumper:fluid!@minechem chemical: ammonium (ion)->(202:-1)(11324291:10:0:295:1000)(False) U=fluid.Minechem Chemical: Ammonium (ion)||L=fluid.Minechem Chemical: Ammonium (ion)
+recipedumper:fluid!@minechem chemical: vinyl chloride monomer->(213:-1)(15829524:10:0:295:1000)(False) U=fluid.Minechem Chemical: Vinyl Chloride Monomer||L=fluid.Minechem Chemical: Vinyl Chloride Monomer
+recipedumper:fluid!@minechem chemical: peroxide (ion)->(204:-1)(9260571:10:0:295:1000)(False) U=fluid.Minechem Chemical: Peroxide (ion)||L=fluid.Minechem Chemical: Peroxide (ion)
+recipedumper:fluid!@life essence->(161:1607)(15658734:2000:0:295:2000)(False) U=fluid.Life Essence||L=Life Essence
+recipedumper:fluid!@minechem chemical: potassium oxide->(300:-1)(7645165:10:0:295:1000)(False) U=fluid.Minechem Chemical: Potassium Oxide||L=fluid.Minechem Chemical: Potassium Oxide
+recipedumper:fluid!@myst.ink.black->(22:1286)(1644825:1000:0:295:1000)(False) U=fluid.myst.ink.black||L=Black Ink
+recipedumper:fluid!@molten.oureclase->(100:2300)(16777215:3000:15:1300:6000)(False) U=fluid.molten.oureclase||L=Molten Oureclase
+recipedumper:fluid!@minechem chemical: radium chloride->(290:-1)(14264291:10:0:295:1000)(False) U=fluid.Minechem Chemical: Radium Chloride||L=fluid.Minechem Chemical: Radium Chloride
+recipedumper:fluid!@fluorine->(334:-1)(1048832:10:0:295:1000)(False) U=fluid.Fluorine||L=fluid.Fluorine
+recipedumper:fluid!@juice->(152:-1)(16777215:1000:0:295:1000)(False) U=fluid.juice||L=Fruit Juice
+recipedumper:fluid!@minechem chemical: chromate (ion)->(200:-1)(14601126:10:0:295:1000)(False) U=fluid.Minechem Chemical: Chromate (ion)||L=fluid.Minechem Chemical: Chromate (ion)
+recipedumper:fluid!@minechem chemical: sulfate (ion)->(192:-1)(9967128:10:0:295:1000)(False) U=fluid.Minechem Chemical: Sulfate (ion)||L=fluid.Minechem Chemical: Sulfate (ion)
+recipedumper:fluid!@yellorium->(35:2744)(16777215:100:10:295:100)(False) U=fluid.bigreactors.yellorium.still||L=fluid.bigreactors.yellorium.still
+recipedumper:fluid!@minechem chemical: potassium chromate->(234:-1)(5624338:10:0:295:1000)(False) U=fluid.Minechem Chemical: Potassium Chromate||L=fluid.Minechem Chemical: Potassium Chromate
+recipedumper:fluid!@technetium->(367:-1)(129:10:0:295:1000)(False) U=fluid.Technetium||L=fluid.Technetium
+recipedumper:fluid!@iron.molten->(42:4094)(16777215:3000:12:1300:6000)(False) U=fluid.iron.molten||L=Molten Iron
+recipedumper:fluid!@molten.angmallen->(69:2270)(16777215:3000:15:1300:6000)(False) U=fluid.molten.angmallen||L=Molten Angmallen
+recipedumper:fluid!@minechem chemical: theobromine->(245:-1)(8509785:10:0:295:1000)(False) U=fluid.Minechem Chemical: Theobromine||L=fluid.Minechem Chemical: Theobromine
+recipedumper:fluid!@minechem chemical: calcium oxide->(205:-1)(8378835:10:0:295:1000)(False) U=fluid.Minechem Chemical: Calcium Oxide||L=fluid.Minechem Chemical: Calcium Oxide
+recipedumper:fluid!@molten.tartarite->(104:2304)(16777215:3000:15:1300:6000)(False) U=fluid.molten.tartarite||L=Molten Tartarite
+recipedumper:fluid!@blood->(58:3217)(16777215:3000:0:1300:6000)(False) U=fluid.blood||L=Blood
+recipedumper:fluid!@minechem chemical: carbonate (ion)->(196:-1)(13742559:10:0:295:1000)(False) U=fluid.Minechem Chemical: Carbonate (ion)||L=fluid.Minechem Chemical: Carbonate (ion)
+recipedumper:fluid!@minechem chemical: glucose->(294:-1)(10917184:10:0:295:1000)(False) U=fluid.Minechem Chemical: Glucose||L=fluid.Minechem Chemical: Glucose
+recipedumper:fluid!@manyullyn.molten->(51:3210)(16777215:3000:12:1300:6000)(False) U=fluid.manyullyn.molten||L=Molten Manyullyn
+recipedumper:fluid!@platinum.molten->(62:3198)(16777215:3000:0:1300:6000)(False) U=fluid.platinum.molten||L=Molten Platinum
+recipedumper:fluid!@boron->(331:-1)(256:10:0:295:1000)(False) U=fluid.Boron||L=fluid.Boron
+recipedumper:fluid!@gascraft_smoke->(174:3167)(16777215:-1000:0:295:100)(True) U=fluid.gasCraft_smoke||L=Smoke
+recipedumper:fluid!@molten.midasium->(83:2283)(16777215:3000:15:1300:6000)(False) U=fluid.molten.midasium||L=Molten Midasium
+recipedumper:fluid!@minechem chemical: phenylalanine->(318:-1)(10520730:10:0:295:1000)(False) U=fluid.Minechem Chemical: Phenylalanine||L=fluid.Minechem Chemical: Phenylalanine
+recipedumper:fluid!@praseodymium->(383:-1)(1048577:10:0:295:1000)(False) U=fluid.Praseodymium||L=fluid.Praseodymium
+recipedumper:fluid!@einsteinium->(423:-1)(1048576:10:0:295:1000)(False) U=fluid.Einsteinium||L=fluid.Einsteinium
+recipedumper:fluid!@neptunium->(417:-1)(1048576:10:0:295:1000)(False) U=fluid.Neptunium||L=fluid.Neptunium
+recipedumper:fluid!@molten.lemurite->(82:2282)(16777215:3000:15:1300:6000)(False) U=fluid.molten.lemurite||L=Molten Lemurite
+recipedumper:fluid!@iron->(350:-1)(129:10:0:295:1000)(False) U=fluid.Iron||L=fluid.Iron
+recipedumper:fluid!@gascraft_corrosivegas->(177:3169)(16777215:-1000:0:295:100)(True) U=fluid.gasCraft_corrosiveGas||L=Corossive Gas
+recipedumper:fluid!@minechem chemical: hydroxylapatite->(223:-1)(809512:10:0:295:1000)(False) U=fluid.Minechem Chemical: Hydroxylapatite||L=fluid.Minechem Chemical: Hydroxylapatite
+recipedumper:fluid!@endergoo->(135:3927)(16777215:1500:0:220:1500)(False) U=fluid.enderGoo||L=fluid.enderGoo
+recipedumper:fluid!@minechem chemical: diphenhydramine->(274:-1)(11201585:10:0:295:1000)(False) U=fluid.Minechem Chemical: Diphenhydramine||L=fluid.Minechem Chemical: Diphenhydramine
+recipedumper:fluid!@gascraft_naturalgas->(171:3161)(16777215:-1000:0:295:100)(True) U=fluid.gasCraft_naturalGas||L=Natural Gas
+recipedumper:fluid!@helium->(328:-1)(257:10:0:295:1000)(False) U=fluid.Helium||L=fluid.Helium
+recipedumper:fluid!@gold->(403:-1)(129:10:0:295:1000)(False) U=fluid.Gold||L=fluid.Gold
+recipedumper:fluid!@minechem chemical: calcite->(189:-1)(16741263:10:0:295:1000)(False) U=fluid.Minechem Chemical: Calcite||L=fluid.Minechem Chemical: Calcite
+recipedumper:fluid!@minechem chemical: aluminium phosphate->(299:-1)(9619165:10:0:295:1000)(False) U=fluid.Minechem Chemical: Aluminium Phosphate||L=fluid.Minechem Chemical: Aluminium Phosphate
+recipedumper:fluid!@chromium->(348:-1)(129:10:0:295:1000)(False) U=fluid.Chromium||L=fluid.Chromium
+recipedumper:fluid!@minechem chemical: potassium nitrate->(186:-1)(15132390:10:0:295:1000)(False) U=fluid.Minechem Chemical: Potassium Nitrate||L=fluid.Minechem Chemical: Potassium Nitrate
+recipedumper:fluid!@minechem chemical: cobalt(ii) nitrate->(232:-1)(16163735:10:0:295:1000)(False) U=fluid.Minechem Chemical: Cobalt(II) Nitrate||L=fluid.Minechem Chemical: Cobalt(II) Nitrate
+recipedumper:fluid!@minechem chemical: beryl->(242:-1)(7978065:10:0:295:1000)(False) U=fluid.Minechem Chemical: Beryl||L=fluid.Minechem Chemical: Beryl
+recipedumper:fluid!@minechem chemical: methionine->(315:-1)(6189669:10:0:295:1000)(False) U=fluid.Minechem Chemical: Methionine||L=fluid.Minechem Chemical: Methionine
+recipedumper:fluid!@gallium->(355:-1)(524544:10:0:295:1000)(False) U=fluid.Gallium||L=fluid.Gallium
+recipedumper:fluid!@minechem chemical: xylitol->(277:-1)(6991156:10:0:295:1000)(False) U=fluid.Minechem Chemical: Xylitol||L=fluid.Minechem Chemical: Xylitol
+recipedumper:fluid!@stone.seared->(56:3215)(16777215:3000:12:1300:6000)(False) U=fluid.stone.seared||L=Seared Stone
+recipedumper:fluid!@minechem chemical: augite->(306:-1)(15239744:10:0:295:1000)(False) U=fluid.Minechem Chemical: Augite||L=fluid.Minechem Chemical: Augite
+recipedumper:fluid!@fuelcolumn->(37:-1)(16777215:1000:0:295:1000)(False) U=fluid.bigreactors.fuelColumn.still||L=fluid.bigreactors.fuelColumn.still
+recipedumper:fluid!@astatine->(409:-1)(1048832:10:0:295:1000)(False) U=fluid.Astatine||L=fluid.Astatine
+recipedumper:fluid!@krypton->(360:-1)(257:10:0:295:1000)(False) U=fluid.Krypton||L=fluid.Krypton
+recipedumper:fluid!@turpentine->(21:-1)(7951162:1000:0:295:1000)(False) U=fluid.turpentine||L=Turpentine
+recipedumper:fluid!@minechem chemical: methamphetamine->(215:-1)(10145158:10:0:295:1000)(False) U=fluid.Minechem Chemical: Methamphetamine||L=fluid.Minechem Chemical: Methamphetamine
+recipedumper:fluid!@bronze.molten->(49:3208)(16777215:3000:12:1300:6000)(False) U=fluid.bronze.molten||L=Molten Bronze
+recipedumper:fluid!@latex->(20:-1)(14212041:1000:0:295:1000)(False) U=fluid.latex||L=Latex
+recipedumper:fluid!@beryllium->(330:-1)(1:10:0:295:1000)(False) U=fluid.Beryllium||L=fluid.Beryllium
+recipedumper:fluid!@minechem chemical: hyoscyamine->(292:-1)(15015284:10:0:295:1000)(False) U=fluid.Minechem Chemical: Hyoscyamine||L=fluid.Minechem Chemical: Hyoscyamine
+recipedumper:fluid!@grc.applecider0->(112:-1)(8737829:1000:0:295:1000)(False) U=fluid.grc.appleCider0||L=Apple Cider
+recipedumper:fluid!@grc.applecider1->(113:-1)(8737829:1000:0:295:1000)(False) U=fluid.grc.appleCider1||L=Apple Cider
+recipedumper:fluid!@grc.applecider2->(114:-1)(8737829:1000:0:295:1000)(False) U=fluid.grc.appleCider2||L=Apple Cider
+recipedumper:fluid!@ardite.molten->(48:3207)(16777215:3000:12:1300:6000)(False) U=fluid.ardite.molten||L=Molten Ardite
+recipedumper:fluid!@grc.applecider3->(115:-1)(8737829:1000:0:295:1000)(False) U=fluid.grc.appleCider3||L=Apple Cider
+recipedumper:fluid!@minechem chemical: orthoclase->(304:-1)(12342503:10:0:295:1000)(False) U=fluid.Minechem Chemical: Orthoclase||L=fluid.Minechem Chemical: Orthoclase
+recipedumper:fluid!@minechem chemical: glutamine->(319:-1)(13368701:10:0:295:1000)(False) U=fluid.Minechem Chemical: Glutamine||L=fluid.Minechem Chemical: Glutamine
+recipedumper:fluid!@glue->(67:3220)(16777215:6000:0:200:6000)(False) U=fluid.glue||L=Glue
+recipedumper:fluid!@zirconium->(364:-1)(129:10:0:295:1000)(False) U=fluid.Zirconium||L=fluid.Zirconium
+recipedumper:fluid!@lanthanum->(381:-1)(1048577:10:0:295:1000)(False) U=fluid.Lanthanum||L=fluid.Lanthanum
+recipedumper:fluid!@minechem chemical: salt->(264:-1)(3551938:10:0:295:1000)(False) U=fluid.Minechem Chemical: Salt||L=fluid.Minechem Chemical: Salt
+recipedumper:fluid!@minechem chemical: valine->(251:-1)(11384210:10:0:295:1000)(False) U=fluid.Minechem Chemical: Valine||L=fluid.Minechem Chemical: Valine
+recipedumper:fluid!@molten.carmot->(93:2293)(16777215:3000:15:1300:6000)(False) U=fluid.molten.carmot||L=Molten Carmot
+recipedumper:fluid!@molten.celenegil->(94:2294)(16777215:3000:15:1300:6000)(False) U=fluid.molten.celenegil||L=Molten Celenegil
+recipedumper:fluid!@minechem chemical: metasilicate->(241:-1)(15409738:10:0:295:1000)(False) U=fluid.Minechem Chemical: Metasilicate||L=fluid.Minechem Chemical: Metasilicate
+recipedumper:fluid!@maddnamutant->(137:3113)(16777215:3:5:295:4000)(False) U=tile.maddnamutant.name||L=Liquid Mutant DNA
+recipedumper:fluid!@lead.molten->(60:3196)(16777215:3000:0:1300:6000)(False) U=fluid.lead.molten||L=Molten Lead
+recipedumper:fluid!@minechem chemical: ammonia->(265:-1)(12683146:10:0:295:1000)(False) U=fluid.Minechem Chemical: Ammonia||L=fluid.Minechem Chemical: Ammonia
+recipedumper:fluid!@poison->(39:-1)(15406315:1000:0:295:1000)(False) U=fluid.poison||L=Poison
+recipedumper:fluid!@xenon->(378:-1)(257:10:0:295:1000)(False) U=fluid.Xenon||L=fluid.Xenon
+recipedumper:fluid!@minechem chemical: strontium nitrate->(218:-1)(7107508:10:0:295:1000)(False) U=fluid.Minechem Chemical: Strontium Nitrate||L=fluid.Minechem Chemical: Strontium Nitrate
+recipedumper:fluid!@minechem chemical: thc->(268:-1)(825670:10:0:295:1000)(False) U=fluid.Minechem Chemical: THC||L=fluid.Minechem Chemical: THC
+recipedumper:fluid!@actinium->(413:-1)(1048576:10:0:295:1000)(False) U=fluid.Actinium||L=fluid.Actinium
+recipedumper:fluid!@seedoil->(150:-1)(16777215:1000:0:295:1000)(False) U=fluid.seedoil||L=Seed Oil
+recipedumper:fluid!@minechem chemical: proline->(320:-1)(14081633:10:0:295:1000)(False) U=fluid.Minechem Chemical: Proline||L=fluid.Minechem Chemical: Proline
+recipedumper:fluid!@salt.molten->(167:-1)(16777215:1000:0:295:1000)(False) U=fluid.salt.molten||L=Molten Salt
+recipedumper:fluid!@minechem chemical: asparagine->(326:-1)(1234120:10:0:295:1000)(False) U=fluid.Minechem Chemical: Asparagine||L=fluid.Minechem Chemical: Asparagine
+recipedumper:fluid!@molten.vyroxeres->(88:2288)(16777215:3000:15:1300:6000)(False) U=fluid.molten.vyroxeres||L=Molten Vyroxeres
+recipedumper:fluid!@short.mead->(17:-1)(16777215:1000:0:295:1000)(False) U=fluid.short.mead||L=fluid.short.mead
+recipedumper:fluid!@minechem chemical: polyisobutylene rubber->(211:-1)(15383395:10:0:295:1000)(False) U=fluid.Minechem Chemical: Polyisobutylene Rubber||L=fluid.Minechem Chemical: Polyisobutylene Rubber
+recipedumper:fluid!@curium->(420:-1)(1048576:10:0:295:1000)(False) U=fluid.Curium||L=fluid.Curium
+recipedumper:fluid!@minechem chemical: tert-butyllithium->(270:-1)(16540672:10:0:295:1000)(False) U=fluid.Minechem Chemical: Tert-Butyllithium||L=fluid.Minechem Chemical: Tert-Butyllithium
+recipedumper:fluid!@minechem chemical: anorthite->(302:-1)(3971664:10:0:295:1000)(False) U=fluid.Minechem Chemical: Anorthite||L=fluid.Minechem Chemical: Anorthite
+recipedumper:fluid!@protactinium->(415:-1)(1048576:10:0:295:1000)(False) U=fluid.Protactinium||L=fluid.Protactinium
+recipedumper:fluid!@minechem chemical: psilocybin->(216:-1)(7926427:10:0:295:1000)(False) U=fluid.Minechem Chemical: Psilocybin||L=fluid.Minechem Chemical: Psilocybin
+recipedumper:fluid!@minechem chemical: zoisite->(311:-1)(14959608:10:0:295:1000)(False) U=fluid.Minechem Chemical: Zoisite||L=fluid.Minechem Chemical: Zoisite
+recipedumper:fluid!@europium->(387:-1)(1048577:10:0:295:1000)(False) U=fluid.Europium||L=fluid.Europium
+recipedumper:fluid!@samarium->(386:-1)(1048577:10:0:295:1000)(False) U=fluid.Samarium||L=fluid.Samarium
+recipedumper:fluid!@toxicwaste->(142:860)(16777215:1000:0:295:1000)(False) U=fluid.toxicwaste||L=Toxic Waste
+recipedumper:fluid!@chlorine->(29:-1)(16777215:1000:0:295:1000)(True) U=fluid.chlorine||L=Liquid Chlorine
+recipedumper:fluid!@plasma->(143:853)(16777215:1000:0:295:1000)(True) U=fluid.plasma||L=Plasma
+recipedumper:fluid!@hassium->(432:-1)(129:10:0:295:1000)(False) U=fluid.Hassium||L=fluid.Hassium
+recipedumper:fluid!@minechem chemical: tetrodotoxin->(267:-1)(6927504:10:0:295:1000)(False) U=fluid.Minechem Chemical: Tetrodotoxin||L=fluid.Minechem Chemical: Tetrodotoxin
+recipedumper:fluid!@obsidian.molten->(53:3212)(16777215:3000:12:1300:6000)(False) U=fluid.obsidian.molten||L=Molten Obsidian
+recipedumper:fluid!@minechem chemical: phosphate (ion)->(198:-1)(12259362:10:0:295:1000)(False) U=fluid.Minechem Chemical: Phosphate (ion)||L=fluid.Minechem Chemical: Phosphate (ion)
+recipedumper:fluid!@minechem chemical: cysteine->(312:-1)(13859171:10:0:295:1000)(False) U=fluid.Minechem Chemical: Cysteine||L=fluid.Minechem Chemical: Cysteine
+recipedumper:fluid!@bacterialsludge->(134:3440)(16777215:1000:0:295:3000)(False) U=fluid.bacterialsludge||L=fluid.bacterialsludge
+recipedumper:fluid!@fermium->(424:-1)(1048576:10:0:295:1000)(False) U=fluid.Fermium||L=fluid.Fermium
+recipedumper:fluid!@molten.osmium->(109:2310)(16777215:3000:15:1300:6000)(False) U=fluid.molten.osmium||L=Molten Osmium
+recipedumper:fluid!@minechem chemical: titanium dioxide->(240:-1)(2014629:10:0:295:1000)(False) U=fluid.Minechem Chemical: Titanium Dioxide||L=fluid.Minechem Chemical: Titanium Dioxide
+recipedumper:fluid!@caesium->(379:-1)(256:10:0:295:1000)(False) U=fluid.Caesium||L=fluid.Caesium
+recipedumper:fluid!@ender->(65:3218)(16777215:3000:0:295:6000)(False) U=fluid.ender||L=Resonant Ender
+recipedumper:fluid!@molten.fairy->(111:2312)(16777215:3000:15:1300:6000)(False) U=fluid.molten.fairy||L=Molten Fairy
+recipedumper:fluid!@minechem chemical: starch->(246:-1)(2338123:10:0:295:1000)(False) U=fluid.Minechem Chemical: Starch||L=fluid.Minechem Chemical: Starch
+recipedumper:fluid!@minechem chemical: chloroplatinic acid->(271:-1)(12103147:10:0:295:1000)(False) U=fluid.Minechem Chemical: Chloroplatinic Acid||L=fluid.Minechem Chemical: Chloroplatinic Acid
+recipedumper:fluid!@rutherfordium->(428:-1)(129:10:0:295:1000)(False) U=fluid.Rutherfordium||L=fluid.Rutherfordium
+recipedumper:fluid!@plutonium->(418:-1)(1048576:10:0:295:1000)(False) U=fluid.Plutonium||L=fluid.Plutonium
+recipedumper:fluid!@brine->(34:-1)(16777215:1000:0:295:1000)(False) U=fluid.brine||L=Brine
+recipedumper:fluid!@minechem chemical: gallium arsenide->(297:-1)(14999195:10:0:295:1000)(False) U=fluid.Minechem Chemical: Gallium Arsenide||L=fluid.Minechem Chemical: Gallium Arsenide
+recipedumper:fluid!@minechem chemical: methyl methacrylate->(230:-1)(14317263:10:0:295:1000)(False) U=fluid.Minechem Chemical: Methyl Methacrylate||L=fluid.Minechem Chemical: Methyl Methacrylate
+recipedumper:fluid!@tin->(374:-1)(524544:10:0:295:1000)(False) U=fluid.Tin||L=fluid.Tin
+recipedumper:fluid!@iridium->(401:-1)(129:10:0:295:1000)(False) U=fluid.Iridium||L=fluid.Iridium
+recipedumper:fluid!@molten.eximite->(106:2306)(16777215:3000:15:1300:6000)(False) U=fluid.molten.eximite||L=Molten Eximite
+recipedumper:fluid!@molten.meutoite->(107:2307)(16777215:3000:15:1300:6000)(False) U=fluid.molten.meutoite||L=Molten Meutoite
+recipedumper:fluid!@sulfuricacid->(32:-1)(16777215:1000:0:295:1000)(True) U=fluid.sulfuricAcid||L=Liquid Sulfuric Acid
+recipedumper:fluid!@vanadium->(347:-1)(129:10:0:295:1000)(False) U=fluid.Vanadium||L=fluid.Vanadium
+recipedumper:fluid!@mushroomsoup->(13:1042)(16777215:1500:0:295:1500)(False) U=fluid.mfr.liquid.mushroomsoup.still||L=Mushroom Soup
+recipedumper:fluid!@milk->(5:1035)(16777215:1050:0:295:1050)(False) U=fluid.mfr.liquid.milk.still||L=Milk
+recipedumper:fluid!@carbon->(332:-1)(1048704:10:0:295:1000)(False) U=fluid.Carbon||L=fluid.Carbon
+recipedumper:fluid!@aluminium->(338:-1)(524544:10:0:295:1000)(False) U=fluid.Aluminium||L=fluid.Aluminium
+recipedumper:fluid!@minechem chemical: serine->(226:-1)(5900155:10:0:295:1000)(False) U=fluid.Minechem Chemical: Serine||L=fluid.Minechem Chemical: Serine
+recipedumper:fluid!@molten.desichalkos->(105:2305)(16777215:3000:15:1300:6000)(False) U=fluid.molten.desichalkos||L=Molten Desichalkos
+recipedumper:fluid!@lawrencium->(427:-1)(1048576:10:0:295:1000)(False) U=fluid.Lawrencium||L=fluid.Lawrencium
+recipedumper:fluid!@mercury->(404:-1)(129:10:0:295:1000)(False) U=fluid.Mercury||L=fluid.Mercury
+recipedumper:fluid!@minechem chemical: cholesteryl benzoate->(289:-1)(11781613:10:0:295:1000)(False) U=fluid.Minechem Chemical: Cholesteryl Benzoate||L=fluid.Minechem Chemical: Cholesteryl Benzoate
+recipedumper:fluid!@sewage->(7:1039)(16777215:1200:0:295:1200)(False) U=fluid.mfr.liquid.sewage.still||L=Sewage
+recipedumper:fluid!@radium->(412:-1)(1:10:0:295:1000)(False) U=fluid.Radium||L=fluid.Radium
+recipedumper:fluid!@molten redstone->(440:2133)(16777215:1000:12:295:3000)(False) U=fluid.Molten Redstone||L=fluid.Molten Redstone
+recipedumper:fluid!@minechem chemical: polyvinyl chloride->(214:-1)(893595:10:0:295:1000)(False) U=fluid.Minechem Chemical: Polyvinyl Chloride||L=fluid.Minechem Chemical: Polyvinyl Chloride
+recipedumper:fluid!@argon->(342:-1)(257:10:0:295:1000)(False) U=fluid.Argon||L=fluid.Argon
+recipedumper:fluid!@sap->(18:-1)(12481858:1000:0:295:1000)(False) U=fluid.sap||L=Sap
+recipedumper:fluid!@hydrogenchloride->(33:-1)(16777215:1000:0:295:1000)(True) U=fluid.hydrogenChloride||L=Liquid Hydrogen Chloride
+recipedumper:fluid!@seaborgium->(430:-1)(129:10:0:295:1000)(False) U=fluid.Seaborgium||L=fluid.Seaborgium
+recipedumper:fluid!@titanium->(346:-1)(129:10:0:295:1000)(False) U=fluid.Titanium||L=fluid.Titanium
+recipedumper:fluid!@minechem chemical: aluminium oxide->(249:-1)(8843442:10:0:295:1000)(False) U=fluid.Minechem Chemical: Aluminium Oxide||L=fluid.Minechem Chemical: Aluminium Oxide
+recipedumper:fluid!@minechem chemical: fibroin->(298:-1)(5660026:10:0:295:1000)(False) U=fluid.Minechem Chemical: Fibroin||L=fluid.Minechem Chemical: Fibroin
+recipedumper:fluid!@lutetium->(395:-1)(1048577:10:0:295:1000)(False) U=fluid.Lutetium||L=fluid.Lutetium
+recipedumper:fluid!@cobalt->(351:-1)(129:10:0:295:1000)(False) U=fluid.Cobalt||L=fluid.Cobalt
+recipedumper:fluid!@minechem chemical: potassium cyanide->(197:-1)(6912868:10:0:295:1000)(False) U=fluid.Minechem Chemical: Potassium Cyanide||L=fluid.Minechem Chemical: Potassium Cyanide
+recipedumper:fluid!@minechem chemical: fingolimod->(255:-1)(15454595:10:0:295:1000)(False) U=fluid.Minechem Chemical: Fingolimod||L=fluid.Minechem Chemical: Fingolimod
+recipedumper:fluid!@manganese->(349:-1)(129:10:0:295:1000)(False) U=fluid.Manganese||L=fluid.Manganese
+recipedumper:fluid!@minechem chemical: hydrogen chloride->(280:-1)(15376089:10:0:295:1000)(False) U=fluid.Minechem Chemical: Hydrogen Chloride||L=fluid.Minechem Chemical: Hydrogen Chloride
+recipedumper:fluid!@immibis.liquidxp->(162:-1)(16777215:1000:0:295:1000)(False) U=fluid.immibis.liquidxp||L=Liquid XP
+recipedumper:fluid!@molten.refined.glowstone->(108:2309)(16777215:3000:15:1300:6000)(False) U=fluid.molten.refined.glowstone||L=Molten Refined Glowstone
+recipedumper:fluid!@indium->(373:-1)(524544:10:0:295:1000)(False) U=fluid.Indium||L=fluid.Indium
+recipedumper:fluid!@molten.inolashite->(80:2280)(16777215:3000:15:1300:6000)(False) U=fluid.molten.inolashite||L=Molten Inolashite
+recipedumper:fluid!@promethium->(385:-1)(1048577:10:0:295:1000)(False) U=fluid.Promethium||L=fluid.Promethium
+recipedumper:fluid!@deuterium->(141:-1)(16777215:1000:0:295:1000)(True) U=fluid.deuterium||L=Deuterium
+recipedumper:fluid!@minechem chemical: aspartic acid->(222:-1)(16249092:10:0:295:1000)(False) U=fluid.Minechem Chemical: Aspartic Acid||L=fluid.Minechem Chemical: Aspartic Acid
+recipedumper:fluid!@minechem chemical: methylcyclopentadienyl manganese tricarbonyl->(269:-1)(4936438:10:0:295:1000)(False) U=fluid.Minechem Chemical: Methylcyclopentadienyl Manganese Tricarbonyl||L=fluid.Minechem Chemical: Methylcyclopentadienyl Manganese Tricarbonyl
+recipedumper:fluid!@minechem chemical: aminocyclopyrachlor->(278:-1)(5121241:10:0:295:1000)(False) U=fluid.Minechem Chemical: Aminocyclopyrachlor||L=fluid.Minechem Chemical: Aminocyclopyrachlor
+recipedumper:fluid!@minechem chemical: aspartate->(323:-1)(12019014:10:0:295:1000)(False) U=fluid.Minechem Chemical: Aspartate||L=fluid.Minechem Chemical: Aspartate
+recipedumper:fluid!@maddna->(136:3112)(16777215:3:5:295:4000)(False) U=tile.maddna.name||L=Liquid DNA
+recipedumper:fluid!@grc.ricesake1->(126:-1)(15331319:1000:0:295:1000)(False) U=fluid.grc.riceSake1||L=Sake
+recipedumper:fluid!@grc.ricesake2->(127:-1)(15331319:1000:0:295:1000)(False) U=fluid.grc.riceSake2||L=Sake
+recipedumper:fluid!@grc.ricesake0->(125:-1)(15331319:1000:0:295:1000)(False) U=fluid.grc.riceSake0||L=Sake
+recipedumper:fluid!@copper.molten->(44:4092)(16777215:3000:12:1300:6000)(False) U=fluid.copper.molten||L=Molten Copper
+recipedumper:fluid!@bromine->(359:-1)(1048832:10:0:295:1000)(False) U=fluid.Bromine||L=fluid.Bromine
+recipedumper:fluid!@grc.ricesake3->(128:-1)(15331319:1000:0:295:1000)(False) U=fluid.grc.riceSake3||L=Sake
+recipedumper:fluid!@molten.hepatizon->(71:2272)(16777215:3000:15:1300:6000)(False) U=fluid.molten.hepatizon||L=Molten Hepatizon
+recipedumper:fluid!@minechem chemical: magnetite->(219:-1)(13874320:10:0:295:1000)(False) U=fluid.Minechem Chemical: Magnetite||L=fluid.Minechem Chemical: Magnetite
+recipedumper:fluid!@minechem chemical: silicon dioxide->(188:-1)(16843008:10:0:295:1000)(False) U=fluid.Minechem Chemical: Silicon Dioxide||L=fluid.Minechem Chemical: Silicon Dioxide
+recipedumper:fluid!@sulfurtrioxidegas->(31:-1)(16777215:1000:0:295:1000)(True) U=fluid.sulfurTrioxideGas||L=Liquid Sulfur Trioxide
+recipedumper:fluid!@meitnerium->(433:-1)(129:10:0:295:1000)(False) U=fluid.Meitnerium||L=fluid.Meitnerium
+recipedumper:fluid!@food.fish->(130:-1)(16777215:1000:0:295:1000)(False) U=fluid.food.fish||L=Fish Food
+recipedumper:fluid!@molten.manganese->(72:2273)(16777215:3000:15:1300:6000)(False) U=fluid.molten.manganese||L=Molten Manganese
+recipedumper:fluid!@nickel->(352:-1)(129:10:0:295:1000)(False) U=fluid.Nickel||L=fluid.Nickel
+recipedumper:fluid!@scandium->(345:-1)(129:10:0:295:1000)(False) U=fluid.Scandium||L=fluid.Scandium
+recipedumper:fluid!@pyrotheum->(156:2719)(16777215:2000:15:3000:1200)(False) U=fluid.pyrotheum||L=Blazing Pyrotheum
+recipedumper:fluid!@minechem chemical: albite->(303:-1)(1223028:10:0:295:1000)(False) U=fluid.Minechem Chemical: Albite||L=fluid.Minechem Chemical: Albite
+recipedumper:fluid!@steam->(25:491)(16777215:-1000:0:295:500)(False) U=fluid.steam||L=Steam
+recipedumper:fluid!@cerium->(382:-1)(1048577:10:0:295:1000)(False) U=fluid.Cerium||L=fluid.Cerium
+recipedumper:fluid!@gold.molten->(43:4093)(16777215:3000:12:1300:6000)(False) U=fluid.gold.molten||L=Molten Gold
+recipedumper:fluid!@sulfurdioxidegas->(30:-1)(16777215:1000:0:295:1000)(True) U=fluid.sulfurDioxideGas||L=Liquid Sulfur Dioxide
+recipedumper:fluid!@molten.ceruclase->(78:2278)(16777215:3000:15:1300:6000)(False) U=fluid.molten.ceruclase||L=Molten Ceruclase
+recipedumper:fluid!@bioethanol->(149:-1)(16777215:1000:0:295:1000)(False) U=fluid.bioethanol||L=Ethanol
+recipedumper:fluid!@grc.grapewine2->(118:-1)(5574180:1000:0:295:1000)(False) U=fluid.grc.grapeWine2||L=Grape Wine
+recipedumper:fluid!@grc.grapewine3->(119:-1)(5574180:1000:0:295:1000)(False) U=fluid.grc.grapeWine3||L=Grape Wine
+recipedumper:fluid!@minechem chemical: t-2 mycotoxin->(263:-1)(14930961:10:0:295:1000)(False) U=fluid.Minechem Chemical: T-2 Mycotoxin||L=fluid.Minechem Chemical: T-2 Mycotoxin
+recipedumper:fluid!@grc.grapewine0->(116:-1)(5574180:1000:0:295:1000)(False) U=fluid.grc.grapeWine0||L=Grape Wine
+recipedumper:fluid!@grc.grapewine1->(117:-1)(5574180:1000:0:295:1000)(False) U=fluid.grc.grapeWine1||L=Grape Wine
+recipedumper:fluid!@slime.blue->(66:3235)(16777215:1000:0:295:1000)(False) U=fluid.slime.blue||L=Liquid Blueslime
+recipedumper:fluid!@minechem chemical: batrachotoxin->(275:-1)(15911271:10:0:295:1000)(False) U=fluid.Minechem Chemical: Batrachotoxin||L=fluid.Minechem Chemical: Batrachotoxin
+recipedumper:fluid!@slickwater->(164:4074)(16777215:1000:0:295:1000)(False) U=fluid.slickwater||L=Slickwater
+recipedumper:fluid!@minechem chemical: nodularin->(266:-1)(2252421:10:0:295:1000)(False) U=fluid.Minechem Chemical: Nodularin||L=fluid.Minechem Chemical: Nodularin
+recipedumper:fluid!@electrum.molten->(64:4095)(16777215:3000:0:1300:6000)(False) U=fluid.electrum.molten||L=Molten Electrum
+recipedumper:fluid!@molten.haderoth->(96:2296)(16777215:3000:15:1300:6000)(False) U=fluid.molten.haderoth||L=Molten Haderoth
+recipedumper:fluid!@minechem chemical: lazurite->(208:-1)(16267826:10:0:295:1000)(False) U=fluid.Minechem Chemical: Lazurite||L=fluid.Minechem Chemical: Lazurite
+recipedumper:fluid!@minechem chemical: delphinidin->(285:-1)(4752545:10:0:295:1000)(False) U=fluid.Minechem Chemical: Delphinidin||L=fluid.Minechem Chemical: Delphinidin
+recipedumper:fluid!@molten.black.steel->(92:2292)(16777215:3000:15:1300:6000)(False) U=fluid.molten.black.steel||L=Molten Black Steel
+recipedumper:fluid!@molten.quicksilver->(102:2302)(16777215:3000:15:1300:6000)(False) U=fluid.molten.quicksilver||L=Molten Quicksilver
+recipedumper:fluid!@minechem chemical: gallic acid->(293:-1)(9191964:10:0:295:1000)(False) U=fluid.Minechem Chemical: Gallic Acid||L=fluid.Minechem Chemical: Gallic Acid
+recipedumper:fluid!@meat->(10:1036)(16777215:2000:0:295:2000)(False) U=fluid.mfr.liquid.meat.still||L=Meat
+recipedumper:fluid!@glass->(147:-1)(16777215:1000:0:295:1000)(False) U=fluid.glass||L=Liquid Glass
+recipedumper:fluid!@ytterbium->(394:-1)(1048577:10:0:295:1000)(False) U=fluid.Ytterbium||L=fluid.Ytterbium
+recipedumper:fluid!@liquiddna->(160:3608)(16777215:1000:0:295:1000)(False) U=fluid.liquiddna||L=Liquid DNA
+recipedumper:fluid!@molten.atlarus->(91:2291)(16777215:3000:15:1300:6000)(False) U=fluid.molten.atlarus||L=Molten Atlarus
+recipedumper:fluid!@molten.shadow.iron->(85:2285)(16777215:3000:15:1300:6000)(False) U=fluid.molten.shadow.iron||L=Molten Shadow Iron
+recipedumper:fluid!@invar.molten->(63:3199)(16777215:3000:0:1300:6000)(False) U=fluid.invar.molten||L=Molten Invar
+recipedumper:fluid!@liquidforce->(159:1911)(16777215:200:15:295:6000)(False) U=fluid.liquidForce||L=Liquid Force
+recipedumper:fluid!@minechem chemical: glyphosate->(259:-1)(9304774:10:0:295:1000)(False) U=fluid.Minechem Chemical: Glyphosate||L=fluid.Minechem Chemical: Glyphosate
+recipedumper:fluid!@minechem chemical: kaolinite->(254:-1)(9246276:10:0:295:1000)(False) U=fluid.Minechem Chemical: Kaolinite||L=fluid.Minechem Chemical: Kaolinite
+recipedumper:fluid!@thulium->(393:-1)(1048577:10:0:295:1000)(False) U=fluid.Thulium||L=fluid.Thulium
+recipedumper:fluid!@gascraft_neurotoxin->(176:3164)(16777215:-1000:0:295:100)(True) U=fluid.gasCraft_neurotoxin||L=Deadly Neurotoxin
+recipedumper:fluid!@minechem chemical: alanine->(224:-1)(8018512:10:0:295:1000)(False) U=fluid.Minechem Chemical: Alanine||L=fluid.Minechem Chemical: Alanine
+recipedumper:fluid!@minechem chemical: alprazolam->(279:-1)(2820163:10:0:295:1000)(False) U=fluid.Minechem Chemical: Alprazolam||L=fluid.Minechem Chemical: Alprazolam
+recipedumper:fluid!@molten.amordrine->(76:2276)(16777215:3000:15:1300:6000)(False) U=fluid.molten.amordrine||L=Molten Amordrine
+recipedumper:fluid!@minechem chemical: isoleucine->(324:-1)(1343152:10:0:295:1000)(False) U=fluid.Minechem Chemical: Isoleucine||L=fluid.Minechem Chemical: Isoleucine
+recipedumper:fluid!@minechem chemical: sodalite->(194:-1)(7225129:10:0:295:1000)(False) U=fluid.Minechem Chemical: Sodalite||L=fluid.Minechem Chemical: Sodalite
+recipedumper:fluid!@minechem chemical: threonine->(313:-1)(10338163:10:0:295:1000)(False) U=fluid.Minechem Chemical: Threonine||L=fluid.Minechem Chemical: Threonine
+recipedumper:fluid!@pinkslime->(11:1038)(16777215:3000:0:295:3000)(False) U=fluid.mfr.liquid.pinkslime.still||L=Pink Slime

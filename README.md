@@ -3,6 +3,11 @@ vitzli's recipe dumper
 
 Simple Minecraft console application that dumps shaped and shapeless crafting recipes and ore dictionary.
 
+Requirements
+------------
+* Minecraft 1.6.4 + MinecraftForge 9.11.1.965
+* Google Guava 14 (most likely already installed)
+
 Supported commands
 ------------------
 
@@ -10,6 +15,7 @@ Supported commands
 /dumprecipes items - dump item recipes
 /dumprecipes oredict - dump ore dictionary
 /dumprecipes all - dump both item recipes and ore dictionary
+/dumprecipes fluids - dump data from fluid registry
 ```
 
 'dumps' directory must exist in the minecraft directory, following file are created:
@@ -17,16 +23,17 @@ Supported commands
 * vsdump-timestamp-recipes.log - recipe data
 * vsdump-timestamp-oredict.log - ore dictionary
 * vsdump-timestamp-items.log - item IDs and metadata dump
+* vsdump-timestamp-fluidreg.log - fluid registry data
 
 See examples/ dir.
 
 Download
 --------
 
-https://www.dropbox.com/s/1kcehyubh52brwa/vsRecipeDumper-0.0.4.zip
+https://www.dropbox.com/s/esk2gjjmukdtsnd/vsRecipeDumper-0.0.5.zip
 
-* md5: f91a4cc343d07a4c2d58ab2866df1548
-* sha1: cf755e5c8dec41c395a4da0781ad9be57d6540f2
+* md5: 6eb74f4cb10823918a449b06efdf4682
+* sha1: 7e230e2884b8d0db373d70c6616d85eaff3f001c
 
 
 License
